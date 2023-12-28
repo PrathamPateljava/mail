@@ -1,2 +1,2 @@
 # mail
- A simple Emailing service using Javascript and Django ans SQL
+ A simple Emailing service using Javascript and Django and SQL
